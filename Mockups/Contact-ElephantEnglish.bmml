@@ -1,0 +1,329 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1044" measuredH="1522" mockupW="1028" mockupH="1505">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::FieldSet" x="59" y="199" w="942" h="195" measuredW="200" measuredH="170" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>799805</color>
+        <markup>true</markup>
+        <text>Eye-catcher</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::FieldSet" x="59" y="91" w="943" h="95" measuredW="200" measuredH="170" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <color>799805</color>
+        <markup>true</markup>
+        <text>Header</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::RoundButton" x="858" y="101" w="20" h="20" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <bold>true</bold>
+        <size>8</size>
+        <text>TW</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::RoundButton" x="95" y="103" w="70" h="70" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="91" y="122" w="74" h="44" measuredW="120" measuredH="20" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>12</size>
+        <text>ELEPHANT%20ENGLISH</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::RoundButton" x="909" y="101" w="20" h="20" measuredW="32" measuredH="32" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <size>8</size>
+        <text>FB</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::RoundButton" x="958" y="101" w="20" h="20" measuredW="32" measuredH="32" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <size>8</size>
+        <text>YT</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="305" y="231" w="472" h="67" measuredW="238" measuredH="72" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <color>0</color>
+        <size>60</size>
+        <text>Say%20hello</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="286" y="298" w="524" h="63" measuredW="816" measuredH="28" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <color>0</color>
+        <size>20</size>
+        <text>consectetur%20adipiscing%20elit%2C%20sed%20do%20eiusmod%20temporn%20cididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::HRule" x="1002" y="851" w="41" h="-1" measuredW="100" measuredH="10" zOrder="12" locked="false" isInGroup="-1"/>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::SubTitle" x="389" y="404" w="288" h="-1" measuredW="139" measuredH="33" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <text>Contact%20me%21</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="1027" y="91" w="-1" h="1402" measuredW="16" measuredH="100" zOrder="14" locked="false" isInGroup="-1"/>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::HRule" x="611" y="415" w="36" h="-1" measuredW="100" measuredH="10" zOrder="15" locked="false" isInGroup="-1"/>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::HRule" x="415" y="413" w="36" h="-1" measuredW="100" measuredH="10" zOrder="16" locked="false" isInGroup="-1"/>
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::FieldSet" x="59" y="439" w="943" h="243" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+        <color>799805</color>
+        <markup>true</markup>
+        <text>Contact</text>
+      </controlProperties>
+    </control>
+    <control controlID="127" controlTypeID="com.balsamiq.mockups::HRule" x="596" y="711" w="36" h="-1" measuredW="100" measuredH="10" zOrder="17" locked="false" isInGroup="-1"/>
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::HRule" x="412" y="711" w="36" h="-1" measuredW="100" measuredH="10" zOrder="18" locked="false" isInGroup="-1"/>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="16" y="17" w="1028" h="1505" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="177" controlTypeID="com.balsamiq.mockups::Paragraph" x="78" y="887" w="893" h="63" measuredW="200" measuredH="80" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <bold>false</bold>
+        <color>0</color>
+        <text>I%20give%20lessons%20from%20my%20home%20on%20Hanover%20Quay%2C%20which%20is%20conveniently%20located%20in%20beautiful%20Grand%20Canal%20Square%2C%20Dublin%202%2C%20just%20a%20stone%u2019s%20throw%20from%20the%20European%20headquarters%20of%20Facebook%20and%20Google.%20When%20we%20have%20set%20a%20date%20for%20the%20level%20test%2C%20I%20will%20send%20you%20an%20email%20with%20the%20exact%20address%20and%20detailed%20directions.%20If%20you%20prefer%2C%20I%20can%20travel%20to%20your%20home%20or%20office%3B%20depending%20on%20the%20distance%2C%20a%20travel%20fee%20will%20be%20charged.</text>
+      </controlProperties>
+    </control>
+    <control controlID="188" controlTypeID="com.balsamiq.mockups::Map" x="85" y="952" w="893" h="204" measuredW="252" measuredH="222" zOrder="27" locked="false" isInGroup="-1"/>
+    <control controlID="191" controlTypeID="com.balsamiq.mockups::Paragraph" x="430" y="625" w="207" h="49" measuredW="200" measuredH="80" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>false</bold>
+        <color>0</color>
+        <text>EMAIL%0Amail@email.org</text>
+      </controlProperties>
+    </control>
+    <control controlID="192" controlTypeID="com.balsamiq.mockups::Paragraph" x="429" y="529" w="207" h="92" measuredW="200" measuredH="80" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>false</bold>
+        <color>0</color>
+        <text>PHONE%0A083%20107%207784%0ACalling%20from%20outside%20Ireland%0A%28+353%29%2083%20107%207784</text>
+      </controlProperties>
+    </control>
+    <control controlID="194" controlTypeID="com.balsamiq.mockups::SubTitle" x="139" y="455" w="170" h="-1" measuredW="117" measuredH="28" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <size>20</size>
+        <text>Get%20in%20touch</text>
+      </controlProperties>
+    </control>
+    <control controlID="195" controlTypeID="com.balsamiq.mockups::Paragraph" x="85" y="501" w="279" h="170" measuredW="200" measuredH="80" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <text>Please%20don%u2019t%20hesitate%20to%20get%20in%20touch%20with%20me%20to%20book%20a%20free%20level%20test.%20This%20will%20take%20about%2045%20minutes%2C%20and%20it%20will%20give%20us%20a%20chance%20to%20get%20to%20know%20each%20other%20and%20set%20some%20concrete%20goals%20for%20your%20progress.%20%0A%20%0AGive%20me%20a%20call%2C%20or%20send%20a%20text%20or%20email...%20and%20if%20I%27m%20in%20class%20when%20you%20call%20and%20can%27t%20answer%20the%20phone%2C%20please%20please%20please%20leave%20a%20message%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="197" controlTypeID="com.balsamiq.mockups::HRule" x="85" y="483" w="838" h="-1" measuredW="100" measuredH="10" zOrder="24" locked="false" isInGroup="-1"/>
+    <control controlID="198" controlTypeID="com.balsamiq.mockups::FieldSet" x="59" y="741" w="943" h="624" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+        <color>799805</color>
+        <markup>true</markup>
+        <text>Contact</text>
+      </controlProperties>
+    </control>
+    <control controlID="199" controlTypeID="com.balsamiq.mockups::VRule" x="664" y="508" w="-1" h="145" measuredW="10" measuredH="100" zOrder="25" locked="false" isInGroup="-1"/>
+    <control controlID="200" controlTypeID="com.balsamiq.mockups::VRule" x="389" y="508" w="-1" h="145" measuredW="10" measuredH="100" zOrder="26" locked="false" isInGroup="-1"/>
+    <control controlID="202" controlTypeID="com.balsamiq.mockups::SubTitle" x="445" y="702" w="170" h="-1" measuredW="100" measuredH="33" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <size>24</size>
+        <text>Find%20me%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="204" controlTypeID="com.balsamiq.mockups::Paragraph" x="85" y="861" w="456" h="20" measuredW="200" measuredH="80" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <bold>true</bold>
+        <color>0</color>
+        <size>16</size>
+        <text>Where%20the%20lessons%20are%20held</text>
+      </controlProperties>
+    </control>
+    <control controlID="205" controlTypeID="com.balsamiq.mockups::RoundButton" x="519" y="499" w="25" h="25" measuredW="32" measuredH="32" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="206" controlTypeID="com.balsamiq.mockups::RoundButton" x="521" y="599" w="25" h="25" measuredW="32" measuredH="32" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="210" controlTypeID="com.balsamiq.mockups::Paragraph" x="85" y="1194" w="893" h="149" measuredW="200" measuredH="80" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <bold>false</bold>
+        <color>0</color>
+        <text>Grand%20Canal%20Square%20is%20very%20easy%20to%20get%20to.%20It%27s%20about%201.5%20km%20east%20of%20the%20main%20entrance%20to%20Trinity%20College%20and%20is%20served%20by%20six%20Dublin%20Bus%20routes.%20There%20are%20DART%20and%20LUAS%20stations%20nearby.%0A%20%0A%20%0A1/%20Dublin%20Bus%3A%20routes%201%2C%2047%2C%2056a%2C%20and%2077a.%20These%20buses%20all%20go%20down%20Pearse%20Street.%20If%20you%27re%20coming%20from%20the%20city%20centre%2C%20get%20off%20at%20Grand%20Canal%20Quay%2C%20stop%20353%3B%20if%20you%27re%20coming%20from%20Sandymount%2C%20get%20off%20at%20stop%20396%0A2/%20Dublin%20Bus%3A%20routes%2015a%20or%2015b.%20But%20NOT%20route%2015%21%20These%20buses%20go%20from%20Rathmines%20through%20the%20city%20centre%20and%20along%20the%20north%20quays.%20Get%20off%20at%20the%20very%20last%20stop%2C%20Benson%20Street%2C%20stop%207077%0A3/%20DART%20to%20Grand%20Canal%20Dock%20Station%2C%20then%20walk%20north%20to%20Grand%20Canal%20Square%0A4/%20LUAS%20Red%20Line%20to%20Mayor%20Square/NCI%2C%20then%20cross%20the%20Samuel%20Beckett%20Bridge</text>
+      </controlProperties>
+    </control>
+    <control controlID="214" controlTypeID="com.balsamiq.mockups::Paragraph" x="85" y="1172" w="413" h="20" measuredW="200" measuredH="80" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <bold>true</bold>
+        <color>0</color>
+        <size>16</size>
+        <text>Getting%20there</text>
+      </controlProperties>
+    </control>
+    <control controlID="215" controlTypeID="com.balsamiq.mockups::Paragraph" x="430" y="792" w="207" h="69" measuredW="200" measuredH="80" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>false</bold>
+        <color>0</color>
+        <size>16</size>
+        <text>ADDRESS%0AThe%20Company%20Name%20Inc.%2C%20%0ADublin%2C%20Ireland</text>
+      </controlProperties>
+    </control>
+    <control controlID="216" controlTypeID="com.balsamiq.mockups::RoundButton" x="519" y="762" w="25" h="25" measuredW="32" measuredH="32" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="217" controlTypeID="com.balsamiq.mockups::Paragraph" x="85" y="1235" w="413" h="20" measuredW="200" measuredH="80" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <bold>true</bold>
+        <color>0</color>
+        <size>16</size>
+        <text>Routes%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="218" controlTypeID="com.balsamiq.mockups::Canvas" x="728" y="513" w="195" h="23" measuredW="100" measuredH="70" zOrder="37" locked="false" isInGroup="-1"/>
+    <control controlID="219" controlTypeID="com.balsamiq.mockups::Canvas" x="728" y="539" w="195" h="25" measuredW="100" measuredH="70" zOrder="38" locked="false" isInGroup="-1"/>
+    <control controlID="220" controlTypeID="com.balsamiq.mockups::Canvas" x="727" y="568" w="195" h="65" measuredW="100" measuredH="70" zOrder="39" locked="false" isInGroup="-1"/>
+    <control controlID="221" controlTypeID="com.balsamiq.mockups::SubTitle" x="733" y="514" w="-1" h="-1" measuredW="42" measuredH="21" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <bold>true</bold>
+        <size>13</size>
+        <text>name%3A</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="222" controlTypeID="com.balsamiq.mockups::SubTitle" x="734" y="543" w="-1" h="-1" measuredW="41" measuredH="21" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <bold>true</bold>
+        <size>13</size>
+        <text>email%3A</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="223" controlTypeID="com.balsamiq.mockups::SubTitle" x="733" y="571" w="-1" h="-1" measuredW="33" measuredH="21" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <bold>true</bold>
+        <size>13</size>
+        <text>text%3A</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="224" controlTypeID="com.balsamiq.mockups::Canvas" x="729" y="635" w="192" h="25" measuredW="100" measuredH="70" zOrder="43" locked="false" isInGroup="-1"/>
+    <control controlID="225" controlTypeID="com.balsamiq.mockups::SubTitle" x="793" y="637" w="-1" h="-1" measuredW="34" measuredH="21" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <bold>true</bold>
+        <size>13</size>
+        <text>send</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="226" controlTypeID="com.balsamiq.mockups::FieldSet" x="59" y="1374" w="943" h="119" measuredW="200" measuredH="170" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <color>799805</color>
+        <markup>true</markup>
+        <text>Footer</text>
+      </controlProperties>
+    </control>
+    <control controlID="227" controlTypeID="com.balsamiq.mockups::Paragraph" x="85" y="1460" w="255" h="28" measuredW="200" measuredH="80" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <size>11</size>
+        <text>Copyright%20/%20Terms%20of%20service</text>
+      </controlProperties>
+    </control>
+    <control controlID="228" controlTypeID="com.balsamiq.mockups::Paragraph" x="87" y="1414" w="191" h="43" measuredW="200" measuredH="80" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <color>16777215</color>
+        <text>Home%20/%20About%20/%20Services%20/%20%0AResources%20/%20Prices%20/%20Contact</text>
+      </controlProperties>
+    </control>
+    <control controlID="229" controlTypeID="com.balsamiq.mockups::Paragraph" x="712" y="1402" w="266" h="74" measuredW="200" measuredH="80" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <bold>false</bold>
+        <color>16777215</color>
+        <text>Resources%20for%20English%20Exams%3A%0A-%20What%20is%20the%20Cambridge%20First%20exam%20like%3F%0A-%20Downloads%20for%20Cambridge%20First%0A-%20What%20is%20the%20Cambridge%20Advanced%20exam%20like%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="230" controlTypeID="com.balsamiq.mockups::RoundButton" x="499" y="1403" w="68" h="68" measuredW="32" measuredH="32" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="231" controlTypeID="com.balsamiq.mockups::Label" x="495" y="1422" w="74" h="44" measuredW="101" measuredH="17" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>10</size>
+        <text>ELEPHANT%20ENGLISH</text>
+      </controlProperties>
+    </control>
+    <control controlID="232" controlTypeID="com.balsamiq.mockups::Button" x="468" y="126" w="80" h="25" measuredW="75" measuredH="27" zOrder="51" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Services</text>
+      </controlProperties>
+    </control>
+    <control controlID="233" controlTypeID="com.balsamiq.mockups::Button" x="305" y="126" w="80" h="25" measuredW="57" measuredH="27" zOrder="52" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Home</text>
+      </controlProperties>
+    </control>
+    <control controlID="234" controlTypeID="com.balsamiq.mockups::Button" x="632" y="126" w="80" h="25" measuredW="60" measuredH="27" zOrder="53" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Prices</text>
+      </controlProperties>
+    </control>
+    <control controlID="235" controlTypeID="com.balsamiq.mockups::Button" x="549" y="126" w="80" h="25" measuredW="85" measuredH="27" zOrder="54" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Resources</text>
+      </controlProperties>
+    </control>
+    <control controlID="236" controlTypeID="com.balsamiq.mockups::Button" x="387" y="126" w="80" h="25" measuredW="57" measuredH="27" zOrder="55" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>About</text>
+      </controlProperties>
+    </control>
+    <control controlID="237" controlTypeID="com.balsamiq.mockups::Button" x="716" y="126" w="80" h="25" measuredW="69" measuredH="27" zOrder="56" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Contact</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
